@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-    <img src="https://nostdahl.com/wp-content/uploads/2020/02/Banner-of-DevOps-vector-illustration-concept-1.png" alt="Banner" width="100%" height="400" />
+    <img src="https://nostdahl.com/wp-content/uploads/2020/02/Banner-of-DevOps-vector-illustration-concept-1.png" alt="Banner" width="100%" height="300" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Zafar Syed</h1>
